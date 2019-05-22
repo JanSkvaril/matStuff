@@ -31,17 +31,17 @@ Nepravidelné rými
 * Jeho pohřeb protivládní demonstrací
 * Další díla: Tyrolské elegie, obrazy z rus, epigramy
 ### Literárně historický kontext
-**romantismus**
+**realismus**
 
 Čeští autoři:
 
 Obrozenci
 * Karel Hynek Mácha - Máj
 * Božena Němcová - babička
-* Tyl 
+* Viktor Dyk - krysař 
 
 Zahraničí:
-* Oscar Wilde - Obraz Doriana Graye 
-* Poe - Havran
-* Puškin - oněgin
+* Charles Dickens - oliver twist
+* gogol - revizor
+* Emile Zola - Zabijákn
 

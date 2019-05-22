@@ -33,7 +33,7 @@ er
 * Zúčastnil se prusko ruské války
 * Spisovatel novinár
 * Realismus, naturalismus
-* Další díla
+* Další díla: Slečna fifi, Miláček
 ### Literárně historický kontext
 **realismus**
 Čeští autoři:

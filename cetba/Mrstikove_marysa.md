@@ -25,6 +25,8 @@ Drama, tragedie
 vnitřní monology sem tam, jinak dialogy
 
 ### Kontext autorovy tvorby
+**realismus**
+
 * píšou realistivká dramata
 * kritizují venkovské zvyky a bezcitnost rodičů
 * Rak na vsi, Dobré duše, povídky
@@ -35,6 +37,6 @@ vnitřní monology sem tam, jinak dialogy
 * Němcová Babička
 
 Zahraničí:
-* Oscar Wilde - Obraz Doriana Graye 
-* Poe - Havran
+* Charles Dickens - oliver twist
+* gogol - revizor
 * Emile Zola - Zabiják

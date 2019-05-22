@@ -33,7 +33,7 @@ Dialogy a monology
 * Používá jasnou pointu a paradoxy
 * Realismus
 * Šachysta, politik
-* Další díla Milá sedmi loupežníků (poezie), Zmoudření Dona Quijota (drama)
+* Další díla: Milá sedmi loupežníků (poezie), Zmoudření Dona Quijota (drama), tichý dům
 ### Literárně historický kontext
 Čeští autoři:
 * Kafka - proměna
@@ -41,6 +41,6 @@ Dialogy a monology
 * Hašek - Osudy dobrého vojína švéjka
 
 Zahraničí: Ztracená generace, otřesená válkou
-* Hemingway - Stařec a moře
-* Remarque - Na západní Frontě klid
-* Fitzgeralt - Velký gatsby
+* Charles Dickens - oliver twist
+* gogol - revizor
+* Emile Zola - Zabijákn

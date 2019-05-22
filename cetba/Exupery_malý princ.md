@@ -38,10 +38,10 @@ postavi mají často dlouhé monology. Vnitřní monology
 ### Literárně historický kontext
 Čeští autoři:
 * Viktor dyk - krysař
-* Josef Čapek - Novinář
+* Borovský - lavra
 * Kafka - proměna
 
 Zahraničí: Ztracená generace, otřesená válkou, realismus
-* Hemingway - Stařec a moře
-* Remarque - Na západní Frontě klid
-* Fitzgeralt - Velký gatsby
+* Charles Dickens - oliver twist
+* gogol - revizor
+* Emile Zola - Zabijákn
