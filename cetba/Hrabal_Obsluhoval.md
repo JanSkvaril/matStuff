@@ -18,8 +18,11 @@ Novela, epika proza
 Ich forma, hlavní postava je vypravěč
 ### Postavy
 **Jan Dítě** - Malí, chce být milionářem a vlastnit hotel, má výrazné výkyvi stěstí a smůli. Ke konci sám.
+
 **Liza** - Němka nacistka. Odjíždí do války. Vrátí s cennými známkamy, z kterých se pak Dítě staně milionářem
+
 **Vrchní Skřivánek** - zkušený, obsluhoval Anglického krále, později proti němcům
+
 ### Vyprávěcí způsoby
 Přímá řec, monology, dialogy
 ### Typy promluv
