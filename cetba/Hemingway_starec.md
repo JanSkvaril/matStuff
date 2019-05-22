@@ -31,7 +31,7 @@ vnitří monology, přímá řeč
 * Americký spisovatel
 * Ztracená generace
 * Nobelova cena za stařec a moře
-* Další díla: sbohem armádo, komu zvoní hrana, most přes řeku kwai
+* Další díla: sbohem armádo, komu zvoní hrana
 ### Literárně historický kontext
 Čeští autoři:
 * Čapek - RUR
