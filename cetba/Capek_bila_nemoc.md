@@ -36,7 +36,7 @@ není
 ### Literárně historický kontext
 Čeští autoři:
 * Viktor dyk - krysař
-* Josef Čapek - Novinář
+* Hašek - osudy dobrého vojína švejka
 * Kafka - proměna
 
 Zahraničí: Ztracená generace, otřesená válkou

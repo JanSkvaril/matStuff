@@ -35,6 +35,7 @@ er
 * Realismus, naturalismus
 * Další díla
 ### Literárně historický kontext
+**realismus**
 Čeští autoři:
 
 Obrozenci
@@ -44,6 +45,6 @@ Obrozenci
 * Borovský - Lávra
 
 Zahraničí:
-* Oscar Wilde - Obraz Doriana Graye 
-* Poe - Havran
+* Charles Dickens - oliver twist
+* gogol - revizor
 * Emile Zola - Zabiják

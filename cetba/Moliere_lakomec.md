@@ -38,6 +38,8 @@ dialogy
 * klasicismus - trojjednota, střídmost, rozum
 * Podvodník, Don Juan, Zdravý nemocný
 ### Literárně historický kontext
+**klasicismus**
+
 Zahraničí:
 * Pierre Corneiile (cid)
 * Jean Racine - Faida

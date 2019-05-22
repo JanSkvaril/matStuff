@@ -42,6 +42,8 @@ Obkročný abba
 * sporná díla
 * Další díla: Cikáni, Márinka, Kat
 ### Literárně historický kontext
+**romantismus**
+
 Čeští autoři:
 * Neruda - co
 * dyk - krysař
@@ -49,4 +51,4 @@ Obkročný abba
 Zahraničí:
 * Oscar Wilde - Obraz Doriana Graye 
 * Poe - Havran
-* Emile Zola - Zabiják
+* puškin oněgin

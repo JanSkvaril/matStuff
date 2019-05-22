@@ -27,10 +27,12 @@ Pásmo vypravěče, monolog, dialog
 ### Veršová výstavba
 Nepravidelné rými
 ### Kontext autorovy tvorby
-* Satirik
+* Satirik, psal epigramy
 * Jeho pohřeb protivládní demonstrací
 * Další díla: Tyrolské elegie, obrazy z rus, epigramy
 ### Literárně historický kontext
+**romantismus**
+
 Čeští autoři:
 
 Obrozenci
@@ -41,5 +43,5 @@ Obrozenci
 Zahraničí:
 * Oscar Wilde - Obraz Doriana Graye 
 * Poe - Havran
-* Emile Zola - Zabiják
+* Puškin - oněgin
 

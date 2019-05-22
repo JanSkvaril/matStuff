@@ -47,5 +47,5 @@ není
 
 Zahraničí:
 * Hemingway - stařec a moře
-* Orwell - farma zvířat
+* Fitzgeralt - Velký gatsby
 * Remarque - Na západní frontě klid

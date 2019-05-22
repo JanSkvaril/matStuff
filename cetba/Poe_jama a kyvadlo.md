@@ -37,5 +37,5 @@ Obrozenci
 
 Zahraničí:
 * Oscar Wilde - Obraz Doriana Graye 
-* Maupassant - kulička
-* Emile Zola - Zabiják
+* Puškin - Oněgin
+* Walter scott - ivanhoe
