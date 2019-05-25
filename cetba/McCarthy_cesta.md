@@ -34,6 +34,7 @@ er
 Čeští autoři:
 * Michal Viewegh - Účastníci zájezdu
 * Radek John - Memento
+
 Zahraničí:
 * Rowlingová - Harry potter
 * Jo Nesbo - Lovci Hlav, sněhulák
