@@ -24,11 +24,15 @@
     * 100Base-T - utp do vzdálenosti
     * 100Base-sx,-lx - vícevláknová optická
 ### IEEE 802.11
-* 802.11něco
-* n a ac
+* 802.11 - Wifinka - pracuje buďto na 2,4 Ghz / 5 Ghz - 2,4 větší tolerance překážek, často pomalejší
+* 802.11a - 1999 / 5Ghz / 54Mbit
+* 802.11g - 2003 / 2,4Ghz / 54Mbit
+* 802.11n - 2009 / 2,4 & 5Ghz / 600Mbit
+* 802.11ac - 2013 / 5Ghz / 1000Mbit
+* 802.11ax - 2019 / 2,4 & 5Ghz / 10 000Mbit
 ### Princip komunikace
 * Stochastické - random
 * Deterministické - token
 ### Kolize
-* CSMA/CA - collision avoidence
-* CSMA/CD - collision detection
+* CSMA/CA - collision avoidence - vyhnutí se = Wifi
+* CSMA/CD - collision detection - kabeláš
